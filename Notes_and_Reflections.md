@@ -1,7 +1,7 @@
 Notes and Reflections 
 ------------------------------------------------------
 
-## 📅 Week 1 Reflection (Sept 29 - Oct 5, 2025)
+## Week 1 📅(Sept 29 - Oct 5, 2025)
 
 **Completed:** Foundations of Data Analytics: Modules 1-4.
 
