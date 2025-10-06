@@ -1,7 +1,7 @@
 Notes and Reflections 
 ------------------------------------------------------
 
-## Week 1 📅(Sept 29 - Oct 5, 2025)
+## Week 1 📅(Sept 29 - Oct 5, 2025) Course Work
 
 🗓️ September 30, 2025
 What I Learned and Completed
@@ -49,5 +49,5 @@ Industry Demand: YouTube resources clarified that the data industry suffers from
 Portfolio Strategy: Confirmed the need to develop a competitive edge by thinking differently and building a portfolio focused on solving real-world problems.
 
 ---
-## Week 2 📅(Oct 6 - Oct 12, 2025)
+## Week 2 📅(Oct 6 - Oct 12, 2025) Course Work
 -----
