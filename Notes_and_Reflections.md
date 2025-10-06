@@ -49,3 +49,5 @@ Industry Demand: YouTube resources clarified that the data industry suffers from
 Portfolio Strategy: Confirmed the need to develop a competitive edge by thinking differently and building a portfolio focused on solving real-world problems.
 
 ---
+## Week 2 📅(Oct 6 - Oct 12, 2025)
+-----
