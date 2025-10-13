@@ -50,4 +50,43 @@ Portfolio Strategy: Confirmed the need to develop a competitive edge by thinking
 
 ---
 ## Week 2 📅(Oct 6 - Oct 12, 2025) Course Work
+🗓️ October 6, 2025
+What I Learned and Completed
+Resources for Open Data: Compiled a list of trustworthy resources for open data:
+
+U.S. Government Data Site (Data.gov): Comprehensive source for U.S. data, research tools, and application development aids.
+U.S. Census Bureau: Provides demographic information from various government and commercial entities.
+Open Data Network: Search engine with advanced filters for finance, public safety, infrastructure, and housing data.
+Google Cloud Public Datasets: Selection of public datasets available directly loaded into BigQuery.
+Dataset Search: A search engine specifically designed for data sets.
+
+Core Concepts: Learned about metadata, relational databases, ERD (Entity-Relationship Diagrams), and normalization.
+
+Skill Development: Learned about how to clean data by sorting and filtering.
+
+Tool Immersion: Watched a YouTube video on how to use BigQuery and learned foundational concepts of BigQuery and SQL.
+
+Practical Application: Completed initial exercises in BigQuery and SQL.
+
+Reflection & Key Takeaways
+Data Sourcing: Even with reputable resources, it's essential to constantly evaluate open data for quality and relevance.
+
+Database Foundation: Understanding concepts like ERDs and normalization is crucial for working efficiently with the relational databases where most large datasets reside.
+
+🗓️ October 8, 2025
+What I Learned and Completed
+Data Security & Management: Learned about the critical importance of data security and encryption.
+
+Data Organization: Focused on the importance of adhering to a consistent file naming convention and hierarchy for project maintainability.
+
+Tool Practice: Continued to practice SQL queries on BigQuery through assignments and projects.
+
+Reflection & Key Takeaways
+Professionalism: Data security, encryption, and organization (naming conventions) are not just best practices, but foundational requirements for professional work and maintaining data integrity.
+
+SQL Mastery: Consistent practice with SQL via assignments and projects is key to solidifying skills in the BigQuery environment.
+
+-----
+## Week 3 📅(Oct 13 - Oct 19, 2025) Course Work
+
 -----
