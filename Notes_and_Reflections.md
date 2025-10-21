@@ -89,4 +89,51 @@ SQL Mastery: Consistent practice with SQL via assignments and projects is key to
 -----
 ## Week 3 📅(Oct 13 - Oct 19, 2025) Course Work
 
+🗓️ October 13, 2025
+What I Learned and Completed
+Course Progress: 
+
+Continued developing data cleaning skills through spreadsheets and SQL.
+Practiced data cleaning techniques in Excel and Google Sheets using shortcuts and functions.
+Learned foundational tools like Pivot Tables, VLOOKUP basics, and data plotting.
+Gained hands-on experience with SQL data cleaning using BigQuery.
+Explored the differences between spreadsheets and SQL.
+Studied advanced SQL data cleaning methods.
+Learned about the importance of changelogs in data tracking and versioning.
+
+Reflection & Key Takeaways
+Developed a deeper understanding of structured data workflows.
+Realized how changelogs are essential for transparency and error tracking in collaborative projects.
+The comparison between SQL and spreadsheets clarified their respective strengths—SQL for scalability and precision, spreadsheets for accessibility and rapid visualization.
+
+🗓️ October 14, 2025
+What I Learned and Completed
+Practice & Application:
+Learned how to sort and filter data to stay organized and efficient.
+Applied sorting functions using the "Party Plan" spreadsheet.
+Practiced SQL sorting queries to better manipulate datasets.
+Analyzed real-world weather data in BigQuery.
+Reflection & Key Takeaways
+Reinforced the importance of keeping data tidy and queryable.
+Sorting and filtering are basic, yet powerful, tools for clarity in analysis.
+BigQuery offered practical exposure to large-scale datasets, which is critical for building data intuition.
+
+🗓️ October 16, 2025
+What I Learned and Completed
+Advanced SQL Skills:
+Learned about CAST and CONVERT functions in SQL for changing data types.
+Practiced using LIMIT and LEN functions for better query control.
+Studied subqueries to perform layered analysis within SQL.
+Developed skills in data aggregation for summarizing large datasets.
+
+Reflection & Key Takeaways
+
+Realized that converting string values to numerical ones (e.g., using "value") is essential for calculations I had struggled with earlier in spreadsheets.
+Subqueries and aggregation greatly increase the flexibility and power of SQL, especially when analyzing complex datasets.
+This reinforced the lesson that understanding data types is foundational to clean, functional analysis.
+
 -----
+## Week 4 📅(Oct 20 - Oct 26, 2025) Course Work
+------
+
+
