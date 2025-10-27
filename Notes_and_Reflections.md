@@ -135,5 +135,59 @@ This reinforced the lesson that understanding data types is foundational to clea
 -----
 ## Week 4 📅(Oct 20 - Oct 26, 2025) Course Work
 ------
+🗓️ October 21, 2025
+What I Learned and Completed
+SQL & Database Skills:
+Explored and gained hands-on experience with various types of SQL joins (e.g., INNER, LEFT, RIGHT).
+Learned about the importance and use of SQL aliases to simplify queries and make them more readable.
+Practiced using SubQueries to perform advanced data aggregation.
+Worked with the avocado dataset in BigQuery to practice simple SQL calculations.
+Learned about and used temporary tables in SQL for modular querying.
+Focused on cleaning data in a spreadsheet before importing it for SQL analysis.
 
+Spreadsheet Analysis:
+Learned and worked with conditional functions in Excel/Google Sheets such as SUMIF and COUNTIF.
+Deepened understanding of Pivot Tables for summarizing and analyzing data.
+
+Reflection & Key Takeaways
+The combination of SQL Joins and Aliases is crucial for efficiently working with relational databases.
+Cleaning data before importing it to SQL saves significant time and effort in the long run.
+
+🗓️ October 22, 2025
+What I Learned and Completed
+Data Visualization Fundamentals:
+
+Explored the process of creating visualizations from data.
+Studied the critical difference between correlation and causation in data analysis.
+Examined different types of charts (e.g., bar, line, scatter) and the scenarios where each is most effective.
+Introduced to and explored the Tableau visualization platform.
+Completed basic hands-on Tableau activities and practiced linking multiple datasets within the platform.
+
+Reflection & Key Takeaways
+Choosing the correct chart type is essential for accurately conveying the insights from the data.
+
+Tableau provides a powerful and intuitive environment for exploring and connecting disparate datasets quickly.
+
+🗓️ October 23, 2025
+What I Learned and Completed
+Data Storytelling & Dashboards:
+
+Learned the principles of Data Storytelling—how to build a compelling narrative around data insights.
+Practiced creating and customizing charts for maximum clarity and impact.
+Created a simple, functional Tableau Dashboard integrating multiple visualizations.
+
+Reflection & Key Takeaways
+Communication is paramount 🗣️. All the data analysis is useless if I cannot effectively convey the findings to both technical and non-technical people. This reinforced the importance of the visualization and storytelling skills I developed today.
+
+🗓️ October 24, 2025
+What I Learned and Completed
+Presentation & R Programming:
+Studied effective methods for developing presentations and slideshows specifically for presenting data.
+Learned helpful presentation communication tips and tricks (e.g., focusing on the 'so what').
+Introduction to the R language and its environment.
+Practiced basic operations and calculations in R.
+
+Reflection & Key Takeaways
+Good presentation skills are the bridge between data analysis and real-world impact. The story is as important as the numbers.
+R seems like a powerful environment for statistical computing, and I look forward to exploring its data analysis capabilities further.
 
