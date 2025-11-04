@@ -7,7 +7,7 @@ Notes and Reflections
 What I Learned and Completed
 Course Progress: Completed Course 2, Module 3: Spreadsheet Magic (Done).
 
-Practical Application: Created a new spreadsheet for the dataset: Population, Latin and Caribbean Countries, 2010-2019.
+Practical Application: Created a new spreadsheet for the dataset: Population, Latin and Caribbean Countries, 2010-2019. 
 Skill Development: Created a spreadsheet and practiced using various formulas on the Monthly Sales data set.
 
 Reflection & Key Takeaways
@@ -52,8 +52,8 @@ Portfolio Strategy: Confirmed the need to develop a competitive edge by thinking
 ## Week 2 📅(Oct 6 - Oct 12, 2025) Course Work
 🗓️ October 6, 2025
 What I Learned and Completed
-Resources for Open Data: Compiled a list of trustworthy resources for open data:
-
+Resources for Open Data: 
+Compiled a list of trustworthy resources for open data:
 U.S. Government Data Site (Data.gov): Comprehensive source for U.S. data, research tools, and application development aids.
 U.S. Census Bureau: Provides demographic information from various government and commercial entities.
 Open Data Network: Search engine with advanced filters for finance, public safety, infrastructure, and housing data.
@@ -61,30 +61,23 @@ Google Cloud Public Datasets: Selection of public datasets available directly lo
 Dataset Search: A search engine specifically designed for data sets.
 
 Core Concepts: Learned about metadata, relational databases, ERD (Entity-Relationship Diagrams), and normalization.
-
 Skill Development: Learned about how to clean data by sorting and filtering.
-
 Tool Immersion: Watched a YouTube video on how to use BigQuery and learned foundational concepts of BigQuery and SQL.
-
 Practical Application: Completed initial exercises in BigQuery and SQL.
 
 Reflection & Key Takeaways
 Data Sourcing: Even with reputable resources, it's essential to constantly evaluate open data for quality and relevance.
-
 Database Foundation: Understanding concepts like ERDs and normalization is crucial for working efficiently with the relational databases where most large datasets reside.
 
 🗓️ October 8, 2025
 What I Learned and Completed
 Data Security & Management: Learned about the critical importance of data security and encryption.
-
 Data Organization: Focused on the importance of adhering to a consistent file naming convention and hierarchy for project maintainability.
-
 Tool Practice: Continued to practice SQL queries on BigQuery through assignments and projects.
+SQL Mastery: Consistent practice with SQL via assignments and projects is key to solidifying skills in the BigQuery environment.
 
 Reflection & Key Takeaways
 Professionalism: Data security, encryption, and organization (naming conventions) are not just best practices, but foundational requirements for professional work and maintaining data integrity.
-
-SQL Mastery: Consistent practice with SQL via assignments and projects is key to solidifying skills in the BigQuery environment.
 
 -----
 ## Week 3 📅(Oct 13 - Oct 19, 2025) Course Work
@@ -165,7 +158,6 @@ Completed basic hands-on Tableau activities and practiced linking multiple datas
 
 Reflection & Key Takeaways
 Choosing the correct chart type is essential for accurately conveying the insights from the data.
-
 Tableau provides a powerful and intuitive environment for exploring and connecting disparate datasets quickly.
 
 🗓️ October 23, 2025
@@ -177,7 +169,7 @@ Practiced creating and customizing charts for maximum clarity and impact.
 Created a simple, functional Tableau Dashboard integrating multiple visualizations.
 
 Reflection & Key Takeaways
-Communication is paramount 🗣️. All the data analysis is useless if I cannot effectively convey the findings to both technical and non-technical people. This reinforced the importance of the visualization and storytelling skills I developed today.
+Communication is paramount. All the data analysis is useless if I cannot effectively convey the findings to both technical and non-technical people. This reinforced the importance of the visualization and storytelling skills I developed today.
 
 🗓️ October 24, 2025
 What I Learned and Completed
