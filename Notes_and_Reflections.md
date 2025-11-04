@@ -191,3 +191,10 @@ Reflection & Key Takeaways
 Good presentation skills are the bridge between data analysis and real-world impact. The story is as important as the numbers.
 R seems like a powerful environment for statistical computing, and I look forward to exploring its data analysis capabilities further.
 
+## Week 6 📅(Nov 03 - Nov 09, 2025) Learning Python for DataScience (Data Analytics|AI|ML)
+🗓️ November 03, 2025
+🗓️ November 03, 2025
+
+## Week 7 📅(Nov 10 - Nov 16, 2025) Learning Python for DataScience (Data Analytics|AI|ML)
+🗓️ November 03, 2025
+🗓️ November 03, 2025
